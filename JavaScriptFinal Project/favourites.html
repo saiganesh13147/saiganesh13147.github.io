@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Favorite Movies</title>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.css" />
+    <link rel="stylesheet" href="css/style.css">
+    
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/4.3.0/firebase.js"></script>
+    <script src="js/favorites.js"></script>
+</head>
+
+<body>
+    <div id="wrapper">
+        <header role="banner">
+            <div class="head">
+               
+                <h1 class="site-title">Indian Cinema Information Site</h1>
+            </div>
+        </header>
+        <nav role="navigation">
+            <ul>
+                <li><a href="Home.html">Home</a></li>
+                <li><a href="images.html">Top 5</a></li>
+                <li><a href="Slides.html">In Theatres</a></li>
+                <li><a href="favourites.html" class="active">Favorite WatchList</a></li>
+                <li><a href="Contact_us.html">Contact Us</a></li>
+            </ul>
+        </nav>
+        
+        
+        
+        
+        <main>
+            
+             <div class="container">
+                 <div class="wrapper">
+                    
+                     <div class="flexcontainer">
+                         <div class="head">
+                            <h1>Favorite Movie Watchlist</h1>
+                             
+                             </div>
+<div class="divL">
+<label for="task"></label>
+<br>
+<input type="text" name="task" id="task">
+<br>
+<input type="button" name="add_task" id="add_task" value="Add Watch List">
+<br>
+<input type="button" name="clear_tasks" id="clear_tasks" value="Clear Movies">
+         </div>           
+                     
+                     
+                     <div class="divR">
+                     <section id="tasks">
+    <label for="task_list">Favorite Movie Watchlist</label>
+    <br>
+    <textarea id="task_list" rows="6" cols="50"></textarea>
+</section>
+                     
+                     </div> 
+                     </div>   
+                 </div>
+            </div>
+            
+        </main>
+        
+        
+        
+        
+        
+        
+        <footer role="contentinfo">
+            
+            <p class="i_allign">Copyright &copy; 2020 Indian Movie Info Site. | All rights reserved</p>
+        </footer>
+    </div>
+    
+</body>
+
+</html>

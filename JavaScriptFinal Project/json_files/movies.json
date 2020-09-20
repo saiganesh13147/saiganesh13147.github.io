@@ -1,0 +1,40 @@
+{
+    "movies":[
+	{
+		
+		"title": "Dangal",
+		"Actor": "Aamir Khan",
+		"image": "images/Dangal.jpg",
+		"Description": "Dangal is a 2016 Indian Hindi-language sports film, directed by Nitesh Tiwari and produced by Aamir Khan, under his studio Aamir Khan Productions with UTV Motion Pictures and Walt Disney Pictures India. Loosely based on the Phogat family, Aamir Khan stars as Mahavir Singh Phogat, a pehlwani amateur wrestler who trains his daughters Geeta Phogat and Babita Kumari to become India's first world-class female wrestlers."		
+	},
+    {
+		
+		"title": "Bahubali",
+		"Actor": "Prabhas",
+		"image": "images/Baahubali.jpg",
+		"Description": "Baahubali 2: The Conclusion is a 2017 Indian epic action film directed by S. S. Rajamouli and written by his father K. V. Vijayendra Prasad.Grossing ₹1,796.56 crore worldwide, The Conclusion surpassed PK (2014) to briefly become the highest grossing Indian film of all time, collecting approximately ₹8 billion worldwide within just six days of its release. It became the first ever Indian film to gross over ₹10 billion, doing so in just ten days."		
+	},
+    {
+		
+		"title": "Bajrangi Bhaijaan",
+		"Actor": "Salman Khan",
+		"image": "images/Bajrangi.jpg",
+		"Description": "Bajrangi Bhaijaan (transl. Brother Bajrangi) is a 2015 Indian Hindi-language comedy-drama film written and directed by Kabir Khan, co-written by K. V. Vijayendra Prasad and Parveez Sheikh, and produced by Salman Khan and Rockline Venkatesh. It stars Salman Khan and Harshaali Malhotra in leading roles, with Nawazuddin Siddiqui and Kareena Kapoor Khan appear in supporting roles.The film received wide acclaim from critics, and was a commercial success. It grossed ₹969 crore ($150 million) worldwide"		
+	},
+    {
+		
+		"title": "Secret Superstar",
+		"Actor": "Aamir Khan",
+		"image": "images/Secret_Superstar.jpg",
+		"Description": "Secret Superstar is a 2017 Indian Hindi-language musical drama film written and directed by Advait Chandan, and produced by Aamir Khan and Kiran Rao under the studio Aamir Khan Productions. The film stars Zaira Wasim, Meher Vij, Raj Arjun and Aamir Khan."		
+	},
+    
+    {
+		
+		"title": "PK",
+		"Actor": "Aamir Khan",
+		"image": "images/PK2.jpg",
+		"Description": "PK is a 2014 Indian satirical comedy-drama film directed by Rajkumar Hirani and written by Hirani and Abhijat Joshi.The film stars Aamir Khan in the titular role with Anushka Sharma, Sushant Singh Rajput, Boman Irani, Saurabh Shukla and Sanjay Dutt in pivotal roles.PK was the first Indian film to gross more than ₹7 billion and US$100 million worldwide."		
+	}
+    
+]}

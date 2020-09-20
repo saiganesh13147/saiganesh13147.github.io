@@ -1,0 +1,40 @@
+{
+    "movies":[
+	{
+		
+		"title": "Anand",
+		"Actor": "Rajesh Khanna",
+		"image": "images/anand.jpg",
+		"Description": "Anand is a 1971 Indian drama film co-written and directed by Hrishikesh Mukherjee, with dialogues written by Gulzar. It stars Rajesh Khanna in the lead role, with a supporting cast including Amitabh Bachchan, Sumita Sanyal, Ramesh Deo and Seema Deo."		
+	},
+    {
+		
+		"title": "Anbe Sivam",
+		"Actor": "KamalHasan,Madavan",
+		"image": "images/anbe.jpg",
+		"Description": "Anbe Sivam (transl. Love is God)[5] is a 2003 Indian Tamil-language comedy-drama film directed and co-produced by Sundar C. with K. Muralitharan, V. Swaminathan and G. Venugopal under the banner of Lakshmi Movie Makers. The film was written by Kamal Haasan, and Madhan provided the dialogues."		
+	},
+    {
+		
+		"title": "Nayakan",
+		"Actor": "Kamal Hasan",
+		"image": "images/nayakan.jpg",
+		"Description": "Nayakan (transl. The Hero; also spelt Nayagan) is a 1987 Indian Tamil-language gangster film written and directed by Mani Ratnam. It stars Kamal Haasan and Saranya in lead roles. It is loosely based on the real-life Bombay underworld don Varadarajan Mudaliar, and sympathetically depicts the struggle of South Indians living in Bombay (now Mumbai). The film also stars Saranya Ponvannan in her film debut. "		
+	},
+    {
+		
+		"title": "Pather Panchali",
+		"Actor": "Subir Banerjee",
+		"image": "images/pather.jpg",
+		"Description": "Pather Panchali is a 1955 Indian Bengali-language drama film written and directed by Satyajit Ray and produced by the Government of West Bengal. It is based on Bibhutibhushan Bandyopadhyay's 1929 Bengali novel of the same name and is Ray's directorial debut. It features Subir Banerjee, Kanu Banerjee, Karuna Banerjee, Uma Dasgupta and Chunibala Devi."		
+	},
+    
+    {
+		
+		"title": "Gol Maal",
+		"Actor": "Amol Palekar",
+		"image": "images/golmal.jpg",
+		"Description": "Gol Maal (English: messed up) is a 1979 Indian Hindi-language comedy film directed by Hrishikesh Mukherjee and written by Rahi Masoom Raza and Sachin Bhowmick. It was produced by Mukherjee and N. C. Sippy, with music by Rahul Dev Burman. "		
+	}
+    
+]}
